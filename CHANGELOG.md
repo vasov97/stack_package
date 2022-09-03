@@ -1,3 +1,3 @@
-## 1.0.0
+## 1.0.1
 
-- Stack implemented via dart list
+- Example added

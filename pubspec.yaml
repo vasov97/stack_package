@@ -1,6 +1,6 @@
 name: stack_ds
 description: Stack data structure base implementation
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/vasov97/stack_package.git
 
 environment:
