@@ -1,8 +1,4 @@
-import 'package:stack/stack.dart';
+import 'package:stack_ds/stack_ds.dart';
 import 'package:test/test.dart';
 
-void main() {
-  test('calculate', () {
-    expect(calculate(), 42);
-  });
-}
+
